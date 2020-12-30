@@ -176,7 +176,11 @@
               :label="item.roleName"
               :value="item.id"
             >
+<<<<<<< HEAD
             </el-option>g
+=======
+            </el-option>
+>>>>>>> goods_cate
           </el-select>
         </p>
       </div>
