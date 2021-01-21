@@ -29,3 +29,16 @@ html,body,#app{
     position: relative;
     height: 250px !important;
 }
+
+.el-steps{
+    margin: 15px 0;
+}
+
+.el-step__title {
+    font-size: 13px;
+    line-height: 38px;
+}
+
+.ql-editor{
+    min-height: 300px;
+}
